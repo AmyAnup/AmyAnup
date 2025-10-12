@@ -29,7 +29,7 @@ I write code the way I vibe—clean, strong😉
 ---
 
 📫 **Let’s connect:**  
-🔗 [LinkedIn] (https://www.linkedin.com/in/amy-anup-5140b834a/)
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amy-anup-5140b834a/)
 🌐 Portfolio (coming soon...)
 
 
